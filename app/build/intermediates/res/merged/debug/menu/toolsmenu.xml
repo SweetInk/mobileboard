@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/wifi" android:title="开启多人模式" />
+	<item android:id="@+id/con" android:title="加入多人模式" />
+	<!-- <item android:id="@+id/debug" android:title="debug" />s -->
+	<item android:id="@+id/save" android:title="保存到内存卡" />
+	<item android:id="@+id/about" android:title="关于"/>
+</menu>

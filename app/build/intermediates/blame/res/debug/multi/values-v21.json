@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 9,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 9,
+                        "endOffset": 133
+                    }
+                }
+            }
+        ]
+    }
+]

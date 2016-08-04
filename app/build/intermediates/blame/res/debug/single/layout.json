@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifihost_list.xml",
+        "source": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\layout\\wifihost_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_layout.xml",
+        "source": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\layout\\wifi_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_dialog.xml",
+        "source": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\layout\\color_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_listitem.xml",
+        "source": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\layout\\main_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\width_dialog.xml",
+        "source": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\layout\\width_dialog.xml"
+    }
+]

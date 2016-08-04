@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fee" >
+        <FrameLayout
+            android:id="@+id/fragment_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#fee" >
+        
+
+            
+               <com.inkstudio.paint.item.PaintView 
+            	    android:id="@+id/paintview"
+            	    android:layout_width="wrap_content"
+            	    android:layout_height="wrap_content"
+            	    />
+
+               <EditText
+                   android:id="@+id/editText1"
+                	android:visibility="gone"
+                	android:hint="请输入文字..."
+                   android:layout_width="wrap_content"
+                   android:textSize="20dp"
+                   android:layout_height="wrap_content"
+                   android:ems="10" >
+
+                   <requestFocus />
+               </EditText>
+        
+        </FrameLayout>
+        <!-- 
+        android:layout_gravity="start" 侧滑菜单在左边
+        android:layout_gravity="start" 侧滑菜单在右边
+         -->
+     <LinearLayout
+            android:id="@+id/menu_layout"
+            android:layout_width="105dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#fff"
+            android:orientation="vertical" >
+            <ImageView
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:gravity="center"
+                android:scaleType="fitXY"
+                android:src="@drawable/logo" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textSize="20dp"
+                android:text="工具箱"
+                android:textColor="@android:color/black" />
+         
+            
+            <!--
+			android:cacheColorHint="#FFFFFF"
+			解决<a href="http://www.it165.net/pro/ydad/" target="_blank" class="keylink">Android</a> ListView 滚动 Item 背景变黑的问题
+            -->
+            <ListView
+                android:id="@+id/menu_listView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+             >
+            </ListView>
+        </LinearLayout>
+    </android.support.v4.widget.DrawerLayout>
+</LinearLayout>

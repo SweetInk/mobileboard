@@ -1,0 +1,431 @@
+[
+    {
+        "outputFile": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 39,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 43,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 48,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 48,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 46,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 46,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 49,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 49,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 54,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 54,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 401,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 341,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endColumn": 43,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 43,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 41,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 41,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 42,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 42,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 40,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 40,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 48,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 48,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 48,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 48,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 48,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 48,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endColumn": 52,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 52,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 58,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 58,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 60,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endColumn": 60,
+                        "endOffset": 785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endLine": 20,
+                    "endColumn": 24,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 790,
+                        "endLine": 18,
+                        "endColumn": 24,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endLine": 22,
+                    "endColumn": 24,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endLine": 20,
+                        "endColumn": 24,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1357,
+                    "endColumn": 51,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 51,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endColumn": 58,
+                    "endOffset": 1463
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 58,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1468,
+                    "endLine": 26,
+                    "endColumn": 9,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "C:\\Users\\suchu\\Desktop\\android-prj\\MobileBoard_V0.1.1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 3,
+                        "endColumn": 9,
+                        "endOffset": 188
+                    }
+                }
+            }
+        ]
+    }
+]
