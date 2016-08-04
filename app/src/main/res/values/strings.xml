@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">会议移动白板</string>
+    <string name="button_erase">Erase</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_set_color">设置颜色</string>
+    <string name="button_set_line_width">设置大小</string>
+    <string name="label_alpha">透明度</string>
+    <string name="label_red">红色</string>
+    <string name="label_green">绿色</string>
+    <string name="label_blue">蓝色</string>
+    <string name="menuitem_clear">Clear</string>
+    <string name="menuitem_color">Color</string>
+    <string name="menuitem_erase">Erase</string>
+    <string name="menuitem_line_width">画笔大小</string>
+    <string name="menuitem_save_image">Save Image</string>
+    <string name="message_erase">Erase the drawing?</string>
+    <string name="message_error_saving">
+      保存画布时出现错误</string>
+    <string name="message_saved">
+       画布已保存到相册</string>
+    <string name="title_color_dialog">选择颜色</string>
+    <string name="title_line_width_dialog">选择画笔大小</string>
+    <string name="copyright"><data><![CDATA[<p>Alpha v0.1.1<br>◇原笔迹绘制<br>◇文字输入<br>◇调色板<br>◇画笔大小<br>◇基本几何绘制<br>◇高同步率<br><p>发现BUG请联系我<br><a href=\"mailto:suchu01@hotmail.com\">suchu01@hotmail.com</a></p></p><p>最后编译时间:<br><font color=\"#8c7853\">2015-08-19 23:54:21</font></p></p><p>by <font color=\"red\">SweetInk</font></p>]]></data></string>
+</resources>
